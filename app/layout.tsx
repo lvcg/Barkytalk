@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Pawsome | Better days with your best friend',
+  title: 'BarkyTalk | Better days with your best friend',
   description: 'Practical pet-care guides and independently researched product recommendations for happier pets.',
 };
 
